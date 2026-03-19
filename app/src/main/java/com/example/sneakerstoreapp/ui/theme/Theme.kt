@@ -6,10 +6,10 @@ import androidx.compose.runtime.Composable
 
 private val AppColorScheme = lightColorScheme(
     primary = SneakerBlue,
-    background = SneakerBlue,
+    background = ScreenBackground,
     surface = White,
     onPrimary = White,
-    onBackground = White,
+    onBackground = DarkText,
     onSurface = DarkText
 )
 

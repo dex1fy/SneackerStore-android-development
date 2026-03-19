@@ -23,7 +23,7 @@ fun SplashScreen(modifier: Modifier = Modifier) {
             .background(SneakerBlue),
         contentAlignment = Alignment.Center
     ) {
-        // Центральная иконка сплеш-экрана.
+        // Center icon for the splash screen.
         Image(
             painter = painterResource(id = R.drawable.ic_splash_logo),
             contentDescription = null,
