@@ -19,6 +19,7 @@
     <string name="forgot_password_title">Забыл Пароль</string>
     <string name="forgot_password_subtitle">Введите Свою Учетную Запись\nДля Сброса</string>
     <string name="send_button">Отправить</string>
+    <string name="loading_button">Подождите...</string>
     <string name="privacy_agreement">Даю согласие на обработку\nперсональных данных</string>
     <string name="back_button">Назад</string>
     <string name="toggle_password_visibility">Показать или скрыть пароль</string>

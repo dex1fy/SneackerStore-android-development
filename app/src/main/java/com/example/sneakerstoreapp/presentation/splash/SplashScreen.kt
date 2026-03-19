@@ -1,3 +1,8 @@
+/**
+ * Этот файл описывает Compose-экран слоя presentation.
+ *
+ * Здесь собирается интерфейс, отображается состояние экрана и обрабатываются действия пользователя.
+ */
 package com.example.sneakerstoreapp.presentation.splash
 
 import androidx.compose.foundation.Image

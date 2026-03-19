@@ -1,3 +1,8 @@
+/**
+ * Этот файл отвечает за часть темы приложения.
+ *
+ * Здесь лежат цвета, типографика и общая настройка внешнего вида Compose.
+ */
 package com.example.sneakerstoreapp.ui.theme
 
 import androidx.compose.material3.Typography

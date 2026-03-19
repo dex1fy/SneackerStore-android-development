@@ -1,3 +1,8 @@
+/**
+ * Этот файл относится к слою presentation.
+ *
+ * Он помогает экрану отображать данные, обрабатывать действия пользователя или синхронизировать состояние.
+ */
 package com.example.sneakerstoreapp.presentation.auth
 
 import androidx.compose.foundation.background
