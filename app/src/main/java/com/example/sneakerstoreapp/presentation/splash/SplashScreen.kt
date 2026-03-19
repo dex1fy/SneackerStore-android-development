@@ -1,3 +1,8 @@
+/**
+ * Этот файл описывает Compose-экран слоя presentation.
+ *
+ * Здесь собирается интерфейс, отображается состояние экрана и обрабатываются действия пользователя.
+ */
 package com.example.sneakerstoreapp.presentation.splash
 
 import androidx.compose.foundation.Image
@@ -23,7 +28,7 @@ fun SplashScreen(modifier: Modifier = Modifier) {
             .background(SneakerBlue),
         contentAlignment = Alignment.Center
     ) {
-        // Центральная иконка сплеш-экрана.
+        // Center icon for the splash screen.
         Image(
             painter = painterResource(id = R.drawable.ic_splash_logo),
             contentDescription = null,
